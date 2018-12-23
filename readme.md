@@ -2,7 +2,7 @@
 
 Candels chart for crypto currencies.
 
-Without any dependencies, used ES2016.
+Without any dependencies, used ES2016. view [demo](https://kaifaty.github.io/Fast-Canvas-Candles-Chart/)  
 
 
 Format of candle:
