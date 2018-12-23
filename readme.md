@@ -33,3 +33,7 @@ Format of candle:
 3. Update data:
 
 		chart.update(data, ["ETH","STE"]);
+		
+	before each `chart.update()` put `chart.loading_spinner()` for show loading spinner.
+	
+	    

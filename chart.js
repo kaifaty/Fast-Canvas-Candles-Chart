@@ -112,6 +112,8 @@ class Chart{
     }
 
     loading_spinner(){
+        if (this.loading)
+            return false;
         let start = new Date();
         let lines = 16,
             cW = 100,
